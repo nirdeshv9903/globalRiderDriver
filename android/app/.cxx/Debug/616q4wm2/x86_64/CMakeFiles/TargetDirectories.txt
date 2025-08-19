@@ -1,0 +1,2 @@
+/Users/raihankhan/Downloads/Archive (1)/android/app/.cxx/Debug/616q4wm2/x86_64/CMakeFiles/edit_cache.dir
+/Users/raihankhan/Downloads/Archive (1)/android/app/.cxx/Debug/616q4wm2/x86_64/CMakeFiles/rebuild_cache.dir

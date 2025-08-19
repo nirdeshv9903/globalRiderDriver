@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "703490401002",
+    "firebase_url": "https://globalride-4fe29-default-rtdb.firebaseio.com",
+    "project_id": "globalride-4fe29",
+    "storage_bucket": "globalride-4fe29.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703490401002:android:a335801640afa679fc2d93",
+        "android_client_info": {
+          "package_name": "com.globalride.appzeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEAVGFVnkQFeW3yRsldVX66jyW3a7dukM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703490401002:android:003328eae013beaafc2d93",
+        "android_client_info": {
+          "package_name": "com.globalridedriver.appzeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEAVGFVnkQFeW3yRsldVX66jyW3a7dukM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
